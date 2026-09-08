@@ -1,6 +1,6 @@
 ![Self-hosted tools, Python, and Web applications](assets/banner.svg)
 
-# Hi, I'm azheng02 👋
+# Hi, I'm Zhi Heng 👋
 
 ### Selected projects
 
